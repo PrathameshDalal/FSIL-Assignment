@@ -1,3 +1,4 @@
+
 # FSIL-Task 2: Construct and Deploy Simple App
 
 `Get10KInsights` is a web-based interface to get insights about a company from its 10K filing reports, the retrival is done with Kay.ai API and Athropic Claude 3 API by using Langchain as a Framework.
@@ -61,7 +62,10 @@ The input value that is provided in the "Company Name or Ticker" Textbox compone
 
 [2] str **"Main risks identified in 10-K filing"** <br>
 
-<hr> 
+# Demo 
+
+https://github.com/PrathameshDalal/FSIL-Assignment/assets/78019189/ed729a6f-f316-46b2-8514-5baa3918982c
+
 
 ### Response Time 
 Average Response time to retrive the insights is around 40s.
